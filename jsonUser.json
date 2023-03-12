@@ -2,53 +2,46 @@
     "user0": {
         "nom" : "Grosbraquemard",
         "prenom" : "Kévin",
-        "data" : {
-            "like":["image1","image10","image12","image8"],
-            "année":"",
-            "format":"",
-            "taille":"",
-            "tagFav":"",
-            "model":"",
-            "couleursFav":""
-        }
+        "images":["image1","image10","image12","image8"],
+        "result":[1,0,0,1],
+        "year":"",
+        "orientation":"",
+        "size":"",
+        "tagFav":"",
+        "colorFav":""
+        
     },
     "user1":{
         "nom" : "Queue",
         "prenom" : "Jean",
-        "data" : {
-            "like":["image2","image7","image9","image6"],
-            "année":"",
-            "format":"",
-            "taille":"",
-            "tagFav":"",
-            "model":"",
-            "couleursFav":""
-        }
+        "images":["image2","image7","image9","image6"],
+        "result":[1,0,0,1],
+        "year":"",
+        "orientation":"",
+        "size":"",
+        "tagFav":"",
+        "colorFav":""
     },
     "user2":{
         "nom" : "Teub",
         "prenom" : "Frédérique",
-        "data" : {
-            "like":["image6","image12","image8","image10"],
-            "année":"",
-            "format":"",
-            "taille":"",
-            "tagFav":"",
-            "model":"",
-            "couleursFav":""
-        }
+        "images":["image6","image12","image8","image10"],
+        "result":[1,0,0,1],
+        "year":"",
+        "orientation":"",
+        "size":"",
+        "tagFav":"",
+        "colorFav":""
     },
     "user3":{
         "nom" : "De la verge",
         "prenom" : "Titouan",
-        "data" : {
-            "like":["image1","image5","image4","image2"],
-            "année":"",
-            "format":"",
-            "taille":"",
-            "tagFav":"",
-            "model":"",
-            "couleursFav":""
-        }
+        "images":["image1","image5","image4","image2"],
+        "result":[1,0,0,1],
+        "year":"",
+        "orientation":"",
+        "size":"",
+        "tagFav":"",
+        "colorFav":""
     }
 }
