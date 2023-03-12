@@ -1,5 +1,5 @@
-[
-    {
+{
+    "user0": {
         "nom" : "Grosbraquemard",
         "prenom" : "Kévin",
         "data" : {
@@ -12,7 +12,7 @@
             "couleursFav":""
         }
     },
-    {
+    "user1":{
         "nom" : "Queue",
         "prenom" : "Jean",
         "data" : {
@@ -25,7 +25,7 @@
             "couleursFav":""
         }
     },
-    {
+    "user2":{
         "nom" : "Teub",
         "prenom" : "Frédérique",
         "data" : {
@@ -38,7 +38,7 @@
             "couleursFav":""
         }
     },
-    {
+    "user3":{
         "nom" : "De la verge",
         "prenom" : "Titouan",
         "data" : {
@@ -51,4 +51,4 @@
             "couleursFav":""
         }
     }
-]
+}
