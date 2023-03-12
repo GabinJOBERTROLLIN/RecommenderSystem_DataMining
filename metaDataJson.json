@@ -1,1 +1,455 @@
-{"image1": {"width": 225, "height": 386, "exif": {}, "mode": "RGBA", "tags": []}, "image4": {"width": 300, "height": 561, "exif": {}, "mode": "RGB", "tags": []}, "image6": {"width": 400, "height": 291, "exif": {}, "mode": "RGB", "tags": []}, "image7": {"width": 2304, "height": 3072, "exif": {}, "mode": "RGB", "tags": []}, "image8": {"width": 3200, "height": 4500, "exif": {}, "mode": "RGB", "tags": []}, "image10": {"width": 550, "height": 429, "exif": {}, "mode": "RGB", "tags": []}, "image12": {"width": 707, "height": 800, "exif": {}, "mode": "L", "tags": []}, "image15": {"width": 1080, "height": 1632, "exif": {}, "mode": "RGB", "tags": []}, "image16": {"width": 2115, "height": 1911, "exif": {}, "mode": "RGB", "tags": []}, "image18": {"width": 1664, "height": 1664, "exif": {}, "mode": "RGB", "tags": []}, "image19": {"width": 500, "height": 488, "exif": {}, "mode": "RGBA", "tags": []}, "image22": {"width": 614, "height": 863, "exif": {}, "mode": "RGB", "tags": []}, "image25": {"width": 1152, "height": 1536, "exif": {}, "mode": "RGB", "tags": []}, "image27": {"width": 284, "height": 379, "exif": {}, "mode": "RGB", "tags": []}, "image28": {"width": 599, "height": 898, "exif": {}, "mode": "L", "tags": []}, "image29": {"width": 466, "height": 883, "exif": {}, "mode": "L", "tags": []}, "image35": {"width": 1296, "height": 972, "exif": {}, "mode": "RGB", "tags": []}, "image37": {"width": 3000, "height": 4000, "exif": {}, "mode": "RGB", "tags": []}, "image38": {"width": 280, "height": 398, "exif": {}, "mode": "RGB", "tags": []}, "image40": {"width": 530, "height": 529, "exif": {}, "mode": "L", "tags": []}, "image42": {"width": 346, "height": 243, "exif": {}, "mode": "P", "tags": []}, "image44": {"width": 300, "height": 548, "exif": {}, "mode": "RGB", "tags": []}, "image46": {"width": 796, "height": 905, "exif": {}, "mode": "RGBA", "tags": []}, "image51": {"width": 1726, "height": 2526, "exif": {}, "mode": "RGB", "tags": []}, "image52": {"width": 639, "height": 478, "exif": {}, "mode": "L", "tags": []}, "image53": {"width": 469, "height": 600, "exif": {}, "mode": "RGB", "tags": []}, "image55": {"width": 500, "height": 333, "exif": {}, "mode": "RGB", "tags": []}, "image59": {"width": 1024, "height": 1024, "exif": {}, "mode": "RGB", "tags": []}, "image60": {"width": 600, "height": 324, "exif": {}, "mode": "RGB", "tags": []}, "image61": {"width": 1314, "height": 945, "exif": {}, "mode": "RGBA", "tags": []}, "image63": {"width": 768, "height": 898, "exif": {}, "mode": "RGB", "tags": []}, "image64": {"width": 495, "height": 316, "exif": {}, "mode": "RGB", "tags": []}, "image65": {"width": 281, "height": 288, "exif": {}, "mode": "RGB", "tags": []}, "image66": {"width": 4960, "height": 3507, "exif": {}, "mode": "L", "tags": []}, "image67": {"width": 1024, "height": 768, "exif": {}, "mode": "RGB", "tags": []}, "image69": {"width": 1200, "height": 1780, "exif": {}, "mode": "RGB", "tags": []}, "image70": {"width": 3829, "height": 1847, "exif": {}, "mode": "RGB", "tags": []}, "image71": {"width": 988, "height": 1436, "exif": {}, "mode": "L", "tags": []}, "image73": {"width": 812, "height": 796, "exif": {}, "mode": "RGB", "tags": []}, "image80": {"width": 1634, "height": 1634, "exif": {}, "mode": "RGB", "tags": []}, "image82": {"width": 300, "height": 519, "exif": {}, "mode": "RGB", "tags": []}, "image83": {"width": 1000, "height": 825, "exif": {}, "mode": "RGB", "tags": []}, "image86": {"width": 225, "height": 346, "exif": {}, "mode": "RGB", "tags": []}, "image87": {"width": 917, "height": 826, "exif": {}, "mode": "RGB", "tags": []}, "image88": {"width": 1024, "height": 1024, "exif": {}, "mode": "RGB", "tags": []}, "image90": {"width": 2117, "height": 2871, "exif": {}, "mode": "RGB", "tags": []}, "image91": {"width": 304, "height": 420, "exif": {}, "mode": "RGB", "tags": []}, "image92": {"width": 1024, "height": 1024, "exif": {}, "mode": "RGB", "tags": []}, "image94": {"width": 300, "height": 300, "exif": {}, "mode": "RGB", "tags": []}, "image96": {"width": 1024, "height": 1024, "exif": {}, "mode": "RGB", "tags": []}, "image97": {"width": 1024, "height": 1024, "exif": {}, "mode": "RGB", "tags": []}, "image98": {"width": 1024, "height": 1024, "exif": {}, "mode": "RGB", "tags": []}, "image99": {"width": 1024, "height": 1024, "exif": {}, "mode": "RGB", "tags": []}, "image100": {"width": 1024, "height": 1024, "exif": {}, "mode": "RGB", "tags": []}, "image101": {"width": 349, "height": 245, "exif": {}, "mode": "L", "tags": []}, "image104": {"width": 1024, "height": 534, "exif": {}, "mode": "RGB", "tags": []}, "image107": {"width": 205, "height": 248, "exif": {}, "mode": "RGB", "tags": []}, "image112": {"width": 280, "height": 370, "exif": {}, "mode": "RGB", "tags": []}, "image114": {"width": 464, "height": 704, "exif": {}, "mode": "RGB", "tags": []}, "image115": {"width": 420, "height": 266, "exif": {}, "mode": "RGB", "tags": []}, "image116": {"width": 300, "height": 362, "exif": {}, "mode": "RGB", "tags": []}, "image119": {"width": 1024, "height": 1024, "exif": {}, "mode": "RGB", "tags": []}, "image120": {"width": 1024, "height": 1024, "exif": {}, "mode": "RGB", "tags": []}, "image121": {"width": 1024, "height": 1024, "exif": {}, "mode": "RGB", "tags": []}, "image122": {"width": 1024, "height": 1024, "exif": {}, "mode": "RGB", "tags": []}, "image123": {"width": 1024, "height": 1024, "exif": {}, "mode": "RGB", "tags": []}, "image126": {"width": 260, "height": 250, "exif": {}, "mode": "RGB", "tags": []}, "image129": {"width": 300, "height": 384, "exif": {}, "mode": "RGB", "tags": []}, "image130": {"width": 750, "height": 501, "exif": {}, "mode": "RGB", "tags": []}, "image132": {"width": 1510, "height": 1571, "exif": {}, "mode": "RGB", "tags": []}, "image134": {"width": 680, "height": 454, "exif": {}, "mode": "RGB", "tags": []}, "image135": {"width": 835, "height": 706, "exif": {}, "mode": "RGB", "tags": []}, "image138": {"width": 400, "height": 279, "exif": {}, "mode": "RGB", "tags": []}, "image139": {"width": 720, "height": 1145, "exif": {}, "mode": "RGB", "tags": []}, "image140": {"width": 973, "height": 656, "exif": {}, "mode": "RGB", "tags": []}}
+{
+    "image0": {
+        "width": 2277,
+        "height": 1832,
+        "exif": {},
+        "mode": "RGB",
+        "tags": [
+            "Fruit"
+        ],
+        "couleurs": [
+            [
+                131,
+                118,
+                106
+            ],
+            [
+                26,
+                23,
+                57
+            ],
+            [
+                216,
+                212,
+                173
+            ]
+        ],
+        "orientation": "paysage",
+        "size": "Grande",
+        "dom": "Red"
+    },
+    "image1": {
+        "width": 2560,
+        "height": 1920,
+        "exif": {
+            "Model": "DMC-FZ20"
+        },
+        "mode": "RGB",
+        "tags": [
+            "Fruit"
+        ],
+        "couleurs": [
+            [
+                234,
+                118,
+                151
+            ],
+            [
+                101,
+                19,
+                31
+            ],
+            [
+                188,
+                66,
+                86
+            ]
+        ],
+        "orientation": "paysage",
+        "size": "Grande",
+        "dom": "Red"
+    },
+    "image2": {
+        "width": 800,
+        "height": 600,
+        "exif": {
+            "Model": "E4500"
+        },
+        "mode": "RGB",
+        "tags": [
+            "Fruit"
+        ],
+        "couleurs": [
+            [
+                183,
+                114,
+                9
+            ],
+            [
+                236,
+                234,
+                228
+            ],
+            [
+                196,
+                175,
+                142
+            ]
+        ],
+        "orientation": "paysage",
+        "size": "Petite",
+        "dom": "Red"
+    },
+    "image3": {
+        "width": 2048,
+        "height": 1536,
+        "exif": {
+            "Model": "hp photosmart 735"
+        },
+        "mode": "RGB",
+        "tags": [
+            "Fruit"
+        ],
+        "couleurs": [
+            [
+                76,
+                48,
+                21
+            ],
+            [
+                178,
+                153,
+                121
+            ],
+            [
+                112,
+                92,
+                63
+            ]
+        ],
+        "orientation": "paysage",
+        "size": "Grande",
+        "dom": "Red"
+    },
+    "image4": {
+        "width": 743,
+        "height": 624,
+        "exif": {},
+        "mode": "RGB",
+        "tags": [
+            "Fruit"
+        ],
+        "couleurs": [
+            [
+                216,
+                179,
+                104
+            ],
+            [
+                4,
+                57,
+                148
+            ],
+            [
+                142,
+                96,
+                36
+            ]
+        ],
+        "orientation": "paysage",
+        "size": "Petite",
+        "dom": "Red"
+    },
+    "image5": {
+        "width": 1329,
+        "height": 1201,
+        "exif": {},
+        "mode": "RGB",
+        "tags": [
+            "Dog"
+        ],
+        "couleurs": [
+            [
+                72,
+                72,
+                72
+            ],
+            [
+                227,
+                227,
+                227
+            ],
+            [
+                149,
+                149,
+                149
+            ]
+        ],
+        "orientation": "paysage",
+        "size": "Moyenne",
+        "dom": "White"
+    },
+    "image6": {
+        "width": 1173,
+        "height": 1496,
+        "exif": {},
+        "mode": "RGB",
+        "tags": [
+            "Dog"
+        ],
+        "couleurs": [
+            [
+                140,
+                140,
+                140
+            ],
+            [
+                186,
+                186,
+                186
+            ],
+            [
+                81,
+                81,
+                81
+            ]
+        ],
+        "orientation": "portrait",
+        "size": "Moyenne",
+        "dom": "White"
+    },
+    "image7": {
+        "width": 2180,
+        "height": 1617,
+        "exif": {
+            "Model": "DMC-FZ20"
+        },
+        "mode": "RGB",
+        "tags": [
+            "Dog"
+        ],
+        "couleurs": [
+            [
+                155,
+                141,
+                124
+            ],
+            [
+                73,
+                66,
+                53
+            ],
+            [
+                191,
+                183,
+                170
+            ]
+        ],
+        "orientation": "paysage",
+        "size": "Grande",
+        "dom": "Red"
+    },
+    "image8": {
+        "width": 2649,
+        "height": 3749,
+        "exif": {
+            "Model": "Canon EOS R"
+        },
+        "mode": "RGB",
+        "tags": [
+            "Dog"
+        ],
+        "couleurs": [
+            [
+                73,
+                72,
+                75
+            ],
+            [
+                174,
+                137,
+                132
+            ],
+            [
+                174,
+                181,
+                195
+            ]
+        ],
+        "orientation": "portrait",
+        "size": "Grande",
+        "dom": "Blue"
+    },
+    "image9": {
+        "width": 391,
+        "height": 295,
+        "exif": {},
+        "mode": "RGB",
+        "tags": [
+            "Dog"
+        ],
+        "couleurs": [
+            [
+                156,
+                137,
+                119
+            ],
+            [
+                78,
+                95,
+                40
+            ],
+            [
+                222,
+                229,
+                223
+            ]
+        ],
+        "orientation": "paysage",
+        "size": "Vignette",
+        "dom": "Red"
+    },
+    "image10": {
+        "width": 1072,
+        "height": 804,
+        "exif": {
+            "Model": "KODAK EasyShare Z981 Digital Camera     "
+        },
+        "mode": "RGB",
+        "tags": [
+            "Lake"
+        ],
+        "couleurs": [
+            [
+                120,
+                140,
+                121
+            ],
+            [
+                206,
+                208,
+                200
+            ],
+            [
+                83,
+                95,
+                66
+            ]
+        ],
+        "orientation": "paysage",
+        "size": "Petite",
+        "dom": "Green"
+    },
+    "image11": {
+        "width": 1408,
+        "height": 1056,
+        "exif": {},
+        "mode": "RGB",
+        "tags": [
+            "Lake"
+        ],
+        "couleurs": [
+            [
+                105,
+                124,
+                138
+            ],
+            [
+                206,
+                221,
+                233
+            ],
+            [
+                31,
+                41,
+                45
+            ]
+        ],
+        "orientation": "paysage",
+        "size": "Moyenne",
+        "dom": "Blue"
+    },
+    "image12": {
+        "width": 3456,
+        "height": 2592,
+        "exif": {
+            "Model": "DSC-HX1"
+        },
+        "mode": "RGB",
+        "tags": [
+            "Lake"
+        ],
+        "couleurs": [
+            [
+                175,
+                185,
+                193
+            ],
+            [
+                51,
+                44,
+                39
+            ],
+            [
+                134,
+                131,
+                104
+            ]
+        ],
+        "orientation": "paysage",
+        "size": "Grande",
+        "dom": "Blue"
+    },
+    "image13": {
+        "width": 2816,
+        "height": 2112,
+        "exif": {
+            "Model": "FE-140,X-725"
+        },
+        "mode": "RGB",
+        "tags": [
+            "Lake"
+        ],
+        "couleurs": [
+            [
+                37,
+                85,
+                83
+            ],
+            [
+                116,
+                202,
+                245
+            ],
+            [
+                68,
+                132,
+                149
+            ]
+        ],
+        "orientation": "paysage",
+        "size": "Grande",
+        "dom": "Green"
+    },
+    "image14": {
+        "width": 3264,
+        "height": 2448,
+        "exif": {
+            "Model": "Canon PowerShot S80"
+        },
+        "mode": "RGB",
+        "tags": [
+            "Lake"
+        ],
+        "couleurs": [
+            [
+                119,
+                154,
+                165
+            ],
+            [
+                58,
+                72,
+                55
+            ],
+            [
+                215,
+                233,
+                247
+            ]
+        ],
+        "orientation": "paysage",
+        "size": "Grande",
+        "dom": "Blue"
+    }
+}
